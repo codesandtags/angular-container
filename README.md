@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Work arounds
+
+https://stackoverflow.com/questions/60102146/custom-library-component-is-not-a-known-element-but-app-compiles-and-runs
+https://dev.to/jwp/angular-libraries-in-10-minutes-25i8
